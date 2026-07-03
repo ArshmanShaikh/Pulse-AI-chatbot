@@ -189,7 +189,6 @@ This project helped me understand:
 
 After running the program, users can interact with the chatbot directly through the terminal.
 
-*(You can add screenshots of your chatbot conversation in the `screenshots` folder.)*
 
 # 👩‍💻 Author
 
